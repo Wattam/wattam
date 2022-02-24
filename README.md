@@ -3,6 +3,7 @@
 </h1>
 
 - 🖥 Back-End Developer
+- 🎓 Sistemas de Informação (Universidade Federal de Viçosa)
 - 🏠 Vazante - MG
 
 ##
