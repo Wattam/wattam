@@ -3,7 +3,7 @@
 </h1>
 
 - 🏬 Software Engineer (Leaf Agriculture)
-- 🎓 Bachelor's degree in Computer Science (Federal University of Viçosa)
+- 🎓 Bachelor of computer science (Federal University of Viçosa)
 - 🏠 MG, Brazil
 
 <div style="display: inline_block"><br>
